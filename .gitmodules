@@ -1,0 +1,3 @@
+[submodule "sub/sub_app"]
+	path = sub/sub_app
+	url = git@github.com:akakiyo/sub_app.git
